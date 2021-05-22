@@ -2,7 +2,7 @@
 
 ### My name is Riley
 
-I have experience in React, React Native, Tailwind CSS, UI/UX, Electron, jQuery, Matter.js, Discord.js, Node.js, and Express.
+I have experience in React, React Native, Tailwind CSS, UI/UX, Electron, jQuery, Matter.js, Discord.js, Socket.io, Node.js, and Express.
 
 My main languages are HTML, CSS, Javascript and Java.
 
