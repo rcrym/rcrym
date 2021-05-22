@@ -1,6 +1,6 @@
 ![](./wave.png)
 
-### My name is Riley
+### Hello! I'm Riley.
 
 I have experience in React, React Native, Tailwind CSS, UI/UX, Electron, jQuery, Matter.js, Discord.js, Socket.io, Node.js, and Express.
 
