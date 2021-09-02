@@ -1,11 +1,32 @@
 ![](./wave.png)
+# Hello! I'm Riley.
+I am a computer science student with a focus on frontend web development. So far, these are the things I have experience in (i.e. used extensively in multiple projects):
 
-### Hello! I'm Riley.
+#### Frontend Web Development
+- React (Create React App and Next.js)
+- React Native
+- Tailwind CSS
+- Chakra UI
+- jQuery
 
-I have experience in React, React Native, Tailwind CSS, UI/UX, Electron, jQuery, Matter.js, Discord.js, Socket.io, Node.js, and Express.
+#### Backend Web Development
+- Node.js
+- Express
+- Socket.io
+- Firebase
 
-My main languages are HTML, CSS, Javascript, Typescript, and Java.
+#### Misc.
+- Electron
+- Matter.js
+- Discord.js
 
-Past projects include desktop apps, mobile apps, web apps, web servers, web crawlers, UI design, email servers, Chrome extensions, Discord bots, 2D games, 3D games, physics games, implementing Huffman’s text compression algorithm, and a shallow checkers AI with alpha/beta pruning.
+#### Languages
+- HTML/CSS
+- Javascript
+- Typescript
+- Java
+
+Past projects (most of which are not public) include desktop apps, mobile apps, web apps, web servers, web crawlers, web UI designs, Chrome extensions, Discord bots, 2D games, physics games, implementing Huffman’s text compression algorithm, and a shallow checkers AI with alpha/beta pruning.
+
 
 ![](./wave2.png)
