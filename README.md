@@ -4,7 +4,6 @@ I am a computer science student with a focus on frontend web development. So far
 
 #### Frontend Web Development
 - React (Create React App and Next.js)
-- React Native
 - Tailwind CSS
 - Chakra UI
 - jQuery
@@ -16,6 +15,7 @@ I am a computer science student with a focus on frontend web development. So far
 - Firebase
 
 #### Misc.
+- React Native
 - Electron
 - Matter.js
 - Discord.js
