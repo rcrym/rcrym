@@ -1,30 +1,16 @@
 ![](./wave.png)
 # Hello! I'm Riley.
-I am a computer science student with a focus on frontend web development. So far, these are the things I have experience in (i.e. used extensively in multiple projects):
+I like to code, both in school and in my free time, with a focus on frontend web development. So far, these are the things I have experience in (i.e. used extensively in multiple projects):
 
-#### Frontend Web Development
-- React (Create React App and Next.js)
-- Tailwind CSS
-- Chakra UI
-- jQuery
+| Frontend Web Development             | Backend Web Development | Misc.        | Languages  |
+|--------------------------------------|-------------------------|--------------|------------|
+| React (Create React App and Next.js) | Node.js                 | React Native | HTML/CSS   |
+| Tailwind CSS                         | Express                 | Electron     | Javascript |
+| Chakra UI                            | Socket.io               | Discord.js   | Typescript |
+| jQuery                               | Firebase                |              | Java       |
+| Handlebars.js                        | Postgres                |              | Python     |
+| Matter.js                            | Redis                   |              | PostgreSQL |
 
-#### Backend Web Development
-- Node.js
-- Express
-- Socket.io
-- Firebase
-
-#### Misc.
-- React Native
-- Electron
-- Matter.js
-- Discord.js
-
-#### Languages
-- HTML/CSS
-- Javascript
-- Typescript
-- Java
 
 Past projects (most of which are not public) include desktop apps, mobile apps, web apps, web servers, web crawlers, web UI designs, Chrome extensions, Discord bots, 2D games, physics games, implementing Huffman’s text compression algorithm, and a shallow checkers AI with alpha/beta pruning.
 
