@@ -4,14 +4,28 @@ I like to code, with a focus on frontend web development. So far, these are the 
 
 | Frontend Web Development             | Backend Web Development | Misc.        | Languages  |
 |--------------------------------------|-------------------------|--------------|------------|
-| React (Create React App and Next.js) | Node.js                 | React Native | HTML/CSS   |
-| Tailwind CSS                         | Express                 | Electron     | Javascript |
-| Chakra UI                            | Socket.io               | Discord.js   | Typescript |
-| jQuery                               | Firebase                |              | Java       |
-| Handlebars.js                        | Postgres                |              | Python     |
-| Matter.js                            | Redis                   |              | PostgreSQL |
+| React (Create React App and Next.js) | Node.js                 | React Native | Java       |
+| Tailwind CSS                         | Express                 | Electron     | C          |
+| Chakra UI                            | Socket.io               | Discord.js   | Python     |
+| jQuery                               | Firebase                |              | Typescript |
+| Handlebars.js                        | Postgres                |              | Javascript |
+| Matter.js                            | Redis                   |              | HTML/CSS   |
+|                                      |                         |              | SQL        |
 
 
-Past projects (most of which are not public) include desktop apps, mobile apps, web apps, web servers, web crawlers, web UI designs, Chrome extensions, Discord bots, 2D games, physics games, and algorithm implementations.
+
+Past projects include
+
+-  Physics simulations (Matter.js)
+-  Algorithm implementations (Text compression, pathfinding, shallow AI, etc.)
+-  Mobile apps for public organizations
+-  Electron desktop apps
+-  Web apps
+-  Web servers (HTTP, Websocket, etc.)
+-  Web crawlers (Cheerio, Puppeteer, etc.)
+-  Web UI designs (Adobe Illustrator, Figma)
+-  Chrome extensions
+-  Discord bots
+-  2D games (Chess, Tic Tac Toe, Breakout, Checkers, etc.) 
 
 ![](./wave2.png)
