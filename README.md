@@ -1,31 +1,32 @@
 ![](./wave.png)
 # Hello, I'm Riley.
-I like to code, with a focus on frontend web development. So far, these are the things I have experience in (i.e. used extensively in multiple projects):
+I am an engineering student and passionate software developer with a wide range of expertise in frontend and backend web development, mobile applications, Arduino-based robotics projects, desktop applications, and much more.
 
-| Frontend Web Development             | Backend Web Development | Misc.        | Languages  |
-|--------------------------------------|-------------------------|--------------|------------|
-| React (Create React App and Next.js) | Node.js                 | React Native | Java       |
-| Tailwind CSS                         | Express                 | Electron     | C          |
-| Chakra UI                            | Socket.io               | Discord.js   | Python     |
-| jQuery                               | Firebase                |              | Typescript |
-| Handlebars.js                        | Postgres                |              | Javascript |
-| Matter.js                            | Redis                   |              | HTML/CSS   |
-|                                      |                         |              | SQL        |
+Below is a summary of the technologies and languages that I have utilized extensively across various projects:
+
+| Frontend Web Development             | Backend Web Development | Programming Languages | Miscellaneous |
+|--------------------------------------|-------------------------|-----------------------|---------------|
+| React (Create React App and Next.js) | Node.js                 | Java                  | React Native  |
+| Tailwind CSS                         | Express                 | C                     | Electron      |
+| Chakra UI                            | Socket.io               | Python                | Discord.js    |
+| jQuery                               | Firebase                | TypeScript            | Arduino       |
+| Handlebars.js                        |                         | JavaScript            |               |
+| Matter.js                            |                         | HTML                  |               |
+|                                      |                         | CSS                   |               |
 
 
+## Past Projects
+Throughout my academic and personal pursuits I have worked on numerous projects including:
 
-Past projects include
-
--  Physics simulations (Matter.js)
--  Algorithm implementations (Text compression, pathfinding, shallow AI, etc.)
--  Mobile apps for public organizations
--  Electron desktop apps
--  Web apps
--  Web servers (HTTP, Websocket, etc.)
--  Web crawlers (Cheerio, Puppeteer, etc.)
--  Web UI designs (Adobe Illustrator, Figma)
--  Chrome extensions
--  Discord bots
--  2D games (Chess, Tic Tac Toe, Breakout, Checkers, etc.) 
+- Arduino-controlled robotics
+- Fully-featured Next.JS web apps with authentications, forms, portals, etc.
+- Mobile apps for public organizations
+- Implementations of various algorithms, such as text compression, pathfinding, and shallow AI
+- Desktop applications using Electron
+- Web crawlers utilizing Cheerio and Puppeteer
+- Google Chrome extensions
+- Discord bots
+- Web user interface designs using Adobe Illustrator and Figma
+- Physics simulations
 
 ![](./wave2.png)
