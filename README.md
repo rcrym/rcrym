@@ -1,8 +1,8 @@
 ![](./wave.png)
 # Hello, I'm Riley.
-I am an engineering student and passionate software developer with a wide range of expertise in frontend and backend web development, mobile applications, Arduino-based robotics projects, desktop applications, and much more.
+I am an engineering student and software developer with a wide range of experience in frontend and backend web development, mobile applications, Arduino-based robotics projects, desktop applications, and much more.
 
-Below is a summary of the technologies and languages that I have utilized extensively across various projects:
+Below is a summary of the technologies and languages that I have utilized across various projects:
 
 | Frontend Web Development             | Backend Web Development | Programming Languages | Miscellaneous |
 |--------------------------------------|-------------------------|-----------------------|---------------|
@@ -16,7 +16,7 @@ Below is a summary of the technologies and languages that I have utilized extens
 
 
 ## Past Projects
-Throughout my academic and personal pursuits I have worked on numerous projects including:
+I have worked on numerous projects including:
 
 - Arduino-controlled robotics
 - Fully-featured Next.JS web apps with authentications, forms, portals, etc.
