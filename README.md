@@ -1,5 +1,7 @@
 ![](./wave.png)
 # Hello, I'm Riley.
+[https://www.linkedin.com/in/rileyc2026/](https://www.linkedin.com/in/rileyc2026/)
+
 I am an engineering student and software developer with a wide range of experience in frontend and backend web development, mobile applications, Arduino-based robotics projects, desktop applications, and much more.
 
 Below is a summary of the technologies and languages that I have utilized across various projects:
