@@ -1,27 +1,25 @@
 ![](./wave.png)
 # Hello, I'm Riley.
 
-I am an engineering student and software developer with a wide range of experience in frontend and backend web development, mobile applications, Arduino-based robotics projects, desktop applications, and much more.
+I am an engineering student with seven years of software development experience gained through academic coursework, personal projects, and internships. My focus is on fullstack web development, but I also have strong experience with apps, robotics, web crawling, embedded systems, natural language processing, and more.
 
 Below is a summary of the technologies and languages that I have utilized across various projects:
 
-| Frontend Web Development             | Backend Web Development | Programming Languages  | Miscellaneous |
-|--------------------------------------|-------------------------|------------------------|---------------|
-| React (Create React App and Next.js) | Node.js                 | Java                   | React Native  |
-| Tailwind CSS                         | Express                 | C                      | Electron      |
-| Chakra UI                            | Socket.io               | Python                 | Arduino       |
-| jQuery                               | Firebase                | TypeScript             | Discord.js    |
-| Handlebars.js                        | Supabase                | JavaScript             | Cheerio       |
-| Matter.js                            | GCP                     | HTML                   | Puppeteer     |
-| Webpack                              |                         | CSS                    |               |
-|                                      |                         | VHDL                   |               |
-|                                      |                         | x86 Assembly           |               |
+| **Frontend Web Development**       | **Backend Web Development**       | **Programming Languages**    | **Mobile Development** | **Desktop Applications** | **Tools & Libraries**      |
+|--------------------------------|-------------------------------|------------------------------|------------------------|--------------------------|-----------------------------|
+| React (CRA, Next.js)          | Node.js                       | Java                         | React Native           | Electron                 | Tailwind CSS                |
+| jQuery                         | Express                       | C                            | Expo                 |                          | Chakra UI                   |
+| Handlebars.js                  | Socket.io                     | Python                       |                        |                          | Discord.js                  |
+| Matter.js                     | Firebase                      | JavaScript                   |                        |                          | Cheerio                     |
+|                              | Supabase                      | TypeScript                   |                        |                          | Puppeteer                   |
+|                              | GCP                           | VHDL                         |                        |                          | Pinecone                    |
+|                              |                               | x86 Assembly                 |                        |                          | Webpack                     |
 
 
 ## Past Projects
 I have worked on numerous projects including:
 
-- Embedded systems
+- Embedded systems (using VHDL and x86 Assembly)
 - Arduino robotics
 - Fully-featured Next.js web apps with authentications, forms, portals, cloud functions, and more.
 - Mobile apps for public organizations
