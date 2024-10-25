@@ -8,12 +8,13 @@ Below is a summary of the technologies and languages that I have utilized across
 | **Frontend Web Development**       | **Backend Web Development**       | **Programming Languages**    | **Mobile Development** | **Desktop Applications** | **Tools & Libraries**      |
 |--------------------------------|-------------------------------|------------------------------|------------------------|--------------------------|-----------------------------|
 | React (CRA, Next.js)          | Node.js                       | Java                         | React Native           | Electron                 | Tailwind CSS                |
-| jQuery                         | Express                       | C                            | Expo                 |                          | Chakra UI                   |
-| Handlebars.js                  | Socket.io                     | Python                       |                        |                          | Discord.js                  |
+| jQuery                         | Express                       | C                            | Expo                   |                          | Chakra UI                   |
+| Handlebars.js                 | Socket.io                     | Python                       |                        |                          | Discord.js                  |
 | Matter.js                     | Firebase                      | JavaScript                   |                        |                          | Cheerio                     |
 |                              | Supabase                      | TypeScript                   |                        |                          | Puppeteer                   |
-|                              | GCP                           | VHDL                         |                        |                          | Pinecone                    |
-|                              |                               | x86 Assembly                 |                        |                          | Webpack                     |
+|                              | PostgreSQL                    | VHDL                         |                        |                          | Pinecone                    |
+|                              | Redis                         | x86 Assembly                 |                        |                          | Webpack                     |
+|                              | GCP                           |                              |                        |                          |                             |
 
 
 ## Past Projects
