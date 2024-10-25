@@ -5,15 +5,15 @@ I am an engineering student with seven years of software development experience 
 
 Below is a summary of the technologies and languages that I have utilized across various projects:
 
-| **Frontend Web Development**       | **Backend Web Development**       | **Programming Languages**    | **Mobile Development** | **Desktop Applications** | **Tools & Libraries**      |
+| **Frontend Web Development**       | **Backend Web Development**       | **Programming Languages**    | **Mobile Development** | **Desktop Applications** | **Miscellaneous Tools**      |
 |--------------------------------|-------------------------------|------------------------------|------------------------|--------------------------|-----------------------------|
-| React (CRA, Next.js)          | Node.js                       | Java                         | React Native           | Electron                 | Tailwind CSS                |
-| jQuery                         | Express                       | C                            | Expo                   |                          | Chakra UI                   |
-| Handlebars.js                 | Socket.io                     | Python                       |                        |                          | Discord.js                  |
-| Matter.js                     | Firebase                      | JavaScript                   |                        |                          | Cheerio                     |
-|                              | Supabase                      | TypeScript                   |                        |                          | Puppeteer                   |
-|                              | PostgreSQL                    | VHDL                         |                        |                          | Pinecone                    |
-|                              | Redis                         | x86 Assembly                 |                        |                          | Webpack                     |
+| React (CRA, Next.js)          | Node.js                       | Java                         | React Native           | Electron                 | Discord.js                  |
+| jQuery                         | Express                       | C                            | Expo                   |                          | Cheerio                     |
+| Handlebars.js                 | Socket.io                     | Python                       |                        |                          | Puppeteer                   |
+| Matter.js                     | Firebase                      | JavaScript                   |                        |                          | Pinecone                    |
+| Tailwind CSS                  | Supabase                      | TypeScript                   |                        |                          | Webpack                     |
+| Chakra UI                     | PostgreSQL                    | VHDL                         |                        |                          |                             |
+|                              | Redis                         | x86 Assembly                 |                        |                          |                             |
 |                              | GCP                           |                              |                        |                          |                             |
 
 
