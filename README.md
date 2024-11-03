@@ -5,21 +5,20 @@ I am an engineering student with seven years of software development experience 
 
 Below is a summary of the technologies and languages that I have utilized across various projects:
 
-| **Frontend Web Development**       | **Backend Web Development**       | **Programming Languages**    | **Mobile Development** | **Desktop Applications** | **Miscellaneous Tools**      |
+| **Frontend Web Development**   | **Backend Web Development**   | **Languages**                | **Mobile Development** | **Desktop Applications** | **Miscellaneous Tools**     |
 |--------------------------------|-------------------------------|------------------------------|------------------------|--------------------------|-----------------------------|
-| React (CRA, Next.js)          | Node.js                       | Java                         | React Native           | Electron                 | Discord.js                  |
-| jQuery                         | Express                       | C                            | Expo                   |                          | Cheerio                     |
-| Handlebars.js                 | Socket.io                     | Python                       |                        |                          | Puppeteer                   |
-| Matter.js                     | Firebase                      | JavaScript                   |                        |                          | Pinecone                    |
-| Tailwind CSS                  | Supabase                      | TypeScript                   |                        |                          | Webpack                     |
-| Chakra UI                     | PostgreSQL                    | VHDL                         |                        |                          |                             |
-|                              | Redis                         | x86 Assembly                 |                        |                          |                             |
-|                              | GCP                           |                              |                        |                          |                             |
+| React (Next.js, CRA)           | Node.js                       | Java                         | React Native           | Electron                 | Docker                      |
+| Tailwind CSS                   | Express                       | C                            | Expo                   |                          | Puppeteer                   |
+| Chakra UI                      | Socket.io                     | VHDL                         |                        |                          | Pinecone                    |
+| Matter.js                      | Firebase                      | x86 Assembly                 |                        |                          | Webpack                     |
+| Handlebars.js                  | Supabase                      | Python                       |                        |                          | Cheerio                     |
+| jQuery                         | PostgreSQL                    | JavaScript                   |                        |                          | Discord.js                  |
+|                                | Redis                         | TypeScript                   |                        |                          |                             |
+|                                | GCP                           | HTML/CSS                     |                        |                          |                             |
+|                                | AWS                           |                              |                        |                          |                             |
 
 
 ## Past Projects
-I have worked on numerous projects including:
-
 - Embedded systems (using VHDL and x86 Assembly)
 - Arduino robotics
 - Fully-featured Next.js web apps with authentications, forms, portals, cloud functions, and more.
@@ -27,9 +26,10 @@ I have worked on numerous projects including:
 - Implementations of various algorithms, such as text compression, pathfinding, and shallow AI
 - Desktop applications using Electron
 - Web crawlers utilizing Cheerio and Puppeteer
-- Google Chrome extensions
+- Google Chrome extensions (e.g. [UBC Workday Extension](https://chromewebstore.google.com/detail/ubc-workday-side-by-side/gonljejijjjmjccdbjokcmmdfmlincmh) w/ 8,000 users)
 - Discord bots
 - Web UI designs using Adobe Illustrator and Figma
-- Physics simulations
-
+- 2D rigid body simulations
+- Civil engineering fluid simulations
+- Aerospace engineering aerodynamics simulations
 ![](./wave2.png)
