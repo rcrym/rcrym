@@ -12,7 +12,7 @@ I'm an engineering student at UBC with seven years of software development exper
 ### So Far
 - **Fullstack Web Applications:** Built fullstack Next.js apps with authentication and custom backend servers for frontend integration.
 - **UBC Workday Extension:** Developed a Chrome extension used by over 8,000 students for streamlined university scheduling.
-- **Embedded Systems Engineering:** Designed low-level embedded projects using C, VHDL, and Assembly for robotics and control systems.
+- **Embedded Systems (Skyfall):** Developed ESP32 firmware for real-time drone fall detection and parachute deployment, streaming telemetry via WebSocket to a live dashboard.
 - **Automation Engineering:** Built web crawlers and scraping pipelines with Cheerio and Puppeteer for real-time data collection.
 - **Physics-Based Simulations:** Modeled 2D rigid body dynamics, aerodynamics, and fluid dynamics in academic projects.
 
