@@ -1,35 +1,19 @@
 ![](./wave.png)
 # Hello, I'm Riley.
 
-I am an engineering student with seven years of software development experience gained through academic coursework, personal projects, and internships. My focus is on fullstack web development, but I also have strong experience with apps, robotics, web crawling, embedded systems, natural language processing, and more.
+I'm an engineering student at UBC with seven years of software development experience through personal projects, internships, and coursework. My focus is on fullstack software development, with experience spanning web applications, embedded systems, robotics, and natural language processing.
 
-Below is a summary of the technologies and languages that I have utilized across various projects:
+### Technologies and Tools
+- **Frontend:** React (Next.js), Tailwind CSS
+- **Backend:** Node.js (Express), Firebase, Supabase, PostgreSQL, Redis
+- **Languages:** Python, JavaScript, TypeScript, C, Java, VHDL, Assembly
+- **Other Tools:** Docker, GCP, AWS, Puppeteer, Pinecone
 
-| **Frontend Web Development**   | **Backend Web Development**   | **Languages**                | **Mobile Development** | **Desktop Applications** | **Miscellaneous Tools**     |
-|--------------------------------|-------------------------------|------------------------------|------------------------|--------------------------|-----------------------------|
-| React (Next.js, CRA)           | Node.js                       | Java                         | React Native           | Electron                 | Docker                      |
-| Tailwind CSS                   | Express                       | C                            | Expo                   |                          | Puppeteer                   |
-| Chakra UI                      | Socket.io                     | VHDL                         |                        |                          | Pinecone                    |
-| Matter.js                      | Firebase                      | x86 Assembly                 |                        |                          | Webpack                     |
-| Handlebars.js                  | Supabase                      | Python                       |                        |                          | Cheerio                     |
-| jQuery                         | PostgreSQL                    | JavaScript                   |                        |                          | Discord.js                  |
-|                                | Redis                         | TypeScript                   |                        |                          |                             |
-|                                | GCP                           | HTML/CSS                     |                        |                          |                             |
-|                                | AWS                           |                              |                        |                          |                             |
+### So Far
+- **Fullstack Web Applications:** Built fullstack Next.js apps with authentication and custom backend servers for frontend integration.
+- **UBC Workday Extension:** Developed a Chrome extension used by over 8,000 students for streamlined university scheduling.
+- **Embedded Systems Engineering:** Designed low-level embedded projects using C, VHDL, and Assembly for robotics and control systems.
+- **Automation Engineering:** Built web crawlers and scraping pipelines with Cheerio and Puppeteer for real-time data collection.
+- **Physics-Based Simulations:** Modeled 2D rigid body dynamics, aerodynamics, and fluid dynamics in academic projects.
 
-
-## Past Projects
-- Embedded systems (using VHDL and x86 Assembly)
-- Arduino robotics
-- Fully-featured Next.js web apps with authentications, forms, portals, cloud functions, and more.
-- Mobile apps for public organizations
-- Implementations of various algorithms, such as text compression, pathfinding, and shallow AI
-- Desktop applications using Electron
-- Web crawlers utilizing Cheerio and Puppeteer
-- Google Chrome extensions (e.g. [UBC Workday Extension](https://chromewebstore.google.com/detail/ubc-workday-side-by-side/gonljejijjjmjccdbjokcmmdfmlincmh) w/ 8,000 users)
-- Discord bots
-- Web UI designs using Adobe Illustrator and Figma
-- 2D rigid body simulations
-- Civil engineering fluid simulations
-- Aerospace engineering aerodynamics simulations
 ![](./wave2.png)
