@@ -1,7 +1,7 @@
 ![](./wave.png)
 # Hello, I'm Riley.
 
-I'm an engineering student at UBC with seven years of software development experience through personal projects, internships, and coursework. My focus is on fullstack software development, with experience spanning web applications, embedded systems, robotics, and natural language processing.
+I'm an engineering student at UBC and have been developing software since high school—about 7 years in total—including internships, coursework, and personal projects. My focus is on fullstack software development, with experience spanning web applications, embedded systems, robotics, and natural language processing.
 
 ### Technologies and Tools
 - **Frontend:** React (Next.js), Tailwind CSS
